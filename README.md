@@ -1,2 +1,2 @@
 # django-tutorial
-Django Tutorial
+This is just a sandbox for testing the Django Framework
